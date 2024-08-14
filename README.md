@@ -3,6 +3,9 @@ I'm excited to share my Power Bi project where I analyzed and visualized the "Lo
 📌 𝐎𝐯𝐞𝐫𝐯𝐢𝐞𝐰 :-
 We conducted an in-depth analysis for Crime Data using Power BI, aiming to create visually appealing and easy-to-understand dashboards. These dashboards highlight Key Performance Indicators (KPIs) to help the client make informed decisions and drive business growth.
 
+📌 Dataset :-
+This data is transcribed from original crime reports that are typed on paper and therefore there may be some inaccuracies within the data. Some location fields with missing data are noted as (0°, 0°). Address fields are only provided to the nearest hundred block in order to maintain privacy. This data is as accurate as the data in the database.
+
 📌 𝐎𝐛𝐣𝐞𝐜𝐭𝐢𝐯𝐞 :-
 I provided a thorough examination of the client’s KPIs, designed intuitive dashboards with Power BI, presented actionable insights from the Crime data, and ensured the dashboards are easy to understand for non-technical users.
 
