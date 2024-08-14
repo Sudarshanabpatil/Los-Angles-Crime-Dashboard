@@ -16,11 +16,11 @@ I provided a thorough examination of the client’s KPIs, designed intuitive das
 📌 𝐂𝐨𝐧𝐜𝐥𝐮𝐬𝐢𝐨𝐧 :-
 This conclusion offers actionable insights that can help decision-makers prioritize areas for intervention, optimize resources, and design more effective crime prevention strategies:
 
-▪Crime Rates by Location
-▪Types of Crimes
-▪Crime Trends Over Time
-▪Demographic Impact
-▪Predictive Insights
+▪ - Crime Rates by Location
+▪ - Types of Crimes
+▪ - Crime Trends Over Time
+▪ - Demographic Impact
+▪ - Predictive Insights
 
 These recommendations are designed to help the Los Angels Crime Department leverage its strengths, address areas for improvement, and remain competitive. Implementing these strategies will drive substantial growth and reduces the Crime Rate. 🌟
 
